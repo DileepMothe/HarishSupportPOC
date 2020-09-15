@@ -1,0 +1,132 @@
+2020-09-14 11:21:43 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-14 11:22:07 [INFO ] [Base] - [closeBrowser] D:\GitProjects\SupportWork\target\cucumber-reports\screenshots\login-into-application.png (The system cannot find the path specified)
+2020-09-14 11:22:08 [INFO ] [Base] - [closeBrowser] Scenario Completed: login into application
+2020-09-14 11:22:08 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2020-09-14 11:24:18 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-14 11:24:42 [INFO ] [Base] - [closeBrowser] Scenario Completed: login into application
+2020-09-14 11:24:42 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2020-09-14 11:26:08 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-14 11:26:33 [INFO ] [Base] - [closeBrowser] Scenario Completed: login into application
+2020-09-14 11:26:33 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2020-09-14 11:27:37 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-14 11:28:03 [INFO ] [Base] - [closeBrowser] Scenario Completed: login into application
+2020-09-14 11:28:03 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2020-09-14 11:33:31 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-14 11:34:17 [INFO ] [Base] - [closeBrowser] Scenario Completed: login into application
+2020-09-14 11:34:17 [INFO ] [Base] - [closeBrowser] Scenario Status is: passed
+2020-09-14 11:36:20 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-14 11:37:05 [INFO ] [Base] - [closeBrowser] Scenario Completed: login into application
+2020-09-14 11:37:05 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2020-09-14 11:39:07 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-14 11:40:08 [INFO ] [Base] - [closeBrowser] Scenario Completed: login into application
+2020-09-14 11:40:08 [INFO ] [Base] - [closeBrowser] Scenario Status is: passed
+2020-09-14 12:02:47 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-14 12:03:33 [INFO ] [Base] - [closeBrowser] Scenario Completed: login into application
+2020-09-14 12:03:33 [INFO ] [Base] - [closeBrowser] Scenario Status is: passed
+2020-09-14 12:04:49 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-14 12:06:04 [INFO ] [Base] - [closeBrowser] 
+2020-09-14 12:14:10 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-14 12:14:54 [INFO ] [Base] - [closeBrowser] Scenario Completed: login into application
+2020-09-14 12:14:54 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2020-09-14 12:16:27 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-14 12:17:04 [INFO ] [Base] - [closeBrowser] Scenario Completed: login into application
+2020-09-14 12:17:04 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2020-09-14 12:18:13 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-14 12:18:53 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-14 12:19:04 [INFO ] [Base] - [closeBrowser] 
+2020-09-14 12:20:25 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-14 12:20:30 [INFO ] [Base] - [closeBrowser] 
+2020-09-14 12:30:19 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-14 12:30:43 [INFO ] [Base] - [closeBrowser] 
+2020-09-14 12:33:13 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-14 12:33:37 [INFO ] [Base] - [closeBrowser] 
+2020-09-14 12:34:24 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-14 12:34:49 [INFO ] [Base] - [closeBrowser] 
+2020-09-14 12:39:51 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-14 12:40:15 [INFO ] [Base] - [closeBrowser] 
+2020-09-14 12:45:00 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-14 12:45:24 [INFO ] [Base] - [closeBrowser] 
+2020-09-14 12:48:20 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-14 12:48:45 [INFO ] [Base] - [closeBrowser] 
+2020-09-14 12:50:19 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-14 12:50:55 [INFO ] [Base] - [closeBrowser] java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:36735
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'USER-PC', ip: '192.168.0.4', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_171'
+Driver info: driver.version: RemoteWebDriver
+2020-09-14 12:51:25 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-14 12:52:01 [INFO ] [Base] - [closeBrowser] Scenario Completed: login into application
+2020-09-14 12:52:01 [INFO ] [Base] - [closeBrowser] Scenario Status is: passed
+2020-09-14 12:52:49 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-14 12:53:26 [INFO ] [Base] - [closeBrowser] Scenario Completed: login into application
+2020-09-14 12:53:26 [INFO ] [Base] - [closeBrowser] Scenario Status is: passed
+2020-09-14 12:56:47 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-14 12:57:26 [INFO ] [Base] - [closeBrowser] Scenario Completed: login into application
+2020-09-14 12:57:26 [INFO ] [Base] - [closeBrowser] Scenario Status is: passed
+2020-09-14 13:49:23 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-14 13:50:15 [INFO ] [Base] - [closeBrowser] Scenario Completed: login into application
+2020-09-14 13:50:15 [INFO ] [Base] - [closeBrowser] Scenario Status is: passed
+2020-09-14 13:51:41 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-14 13:52:14 [INFO ] [Base] - [closeBrowser] Scenario Completed: login into application
+2020-09-14 13:52:14 [INFO ] [Base] - [closeBrowser] Scenario Status is: passed
+2020-09-14 13:56:01 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-14 13:56:27 [INFO ] [Base] - [closeBrowser] Scenario Completed: login into application
+2020-09-14 13:56:27 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2020-09-14 14:06:59 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-14 14:07:34 [INFO ] [Base] - [closeBrowser] Scenario Completed: login into application
+2020-09-14 14:07:34 [INFO ] [Base] - [closeBrowser] Scenario Status is: passed
+2020-09-14 14:17:45 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-14 14:18:13 [INFO ] [Base] - [closeBrowser] Scenario Completed: login into application
+2020-09-14 14:18:13 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2020-09-14 14:32:52 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-14 14:33:26 [INFO ] [Base] - [closeBrowser] Scenario Completed: login into application
+2020-09-14 14:33:26 [INFO ] [Base] - [closeBrowser] Scenario Status is: passed
+2020-09-14 14:42:27 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-14 14:42:53 [INFO ] [Base] - [closeBrowser] Scenario Completed: login into application
+2020-09-14 14:42:53 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2020-09-14 14:48:30 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-14 14:50:45 [INFO ] [Base] - [closeBrowser] Scenario Completed: login into application
+2020-09-14 14:50:45 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2020-09-14 14:56:13 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-14 14:56:39 [INFO ] [Base] - [closeBrowser] Scenario Completed: login into application
+2020-09-14 14:56:39 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2020-09-14 14:57:41 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-14 14:58:14 [INFO ] [Base] - [closeBrowser] Scenario Completed: login into application
+2020-09-14 14:58:14 [INFO ] [Base] - [closeBrowser] Scenario Status is: passed
+2020-09-14 16:21:48 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-14 16:22:34 [INFO ] [Base] - [closeBrowser] Scenario Completed: login into application
+2020-09-14 16:22:34 [INFO ] [Base] - [closeBrowser] Scenario Status is: passed
+2020-09-14 16:48:22 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-14 16:48:56 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-14 16:49:38 [INFO ] [Base] - [closeBrowser] Scenario Completed: login into application
+2020-09-14 16:49:38 [INFO ] [Base] - [closeBrowser] Scenario Status is: passed
+2020-09-14 16:56:34 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-14 16:56:59 [INFO ] [Base] - [closeBrowser] Scenario Completed: login into application
+2020-09-14 16:56:59 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2020-09-15 09:06:32 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-15 09:07:11 [INFO ] [Base] - [closeBrowser] Scenario Completed: login into application
+2020-09-15 09:07:11 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2020-09-15 09:07:37 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-15 09:07:59 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-15 09:08:43 [INFO ] [Base] - [closeBrowser] Scenario Completed: login into application
+2020-09-15 09:08:43 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2020-09-15 09:12:13 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-15 09:12:53 [INFO ] [Base] - [closeBrowser] Scenario Completed: login into application
+2020-09-15 09:12:53 [INFO ] [Base] - [closeBrowser] Scenario Status is: passed
+2020-09-15 09:44:21 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-15 09:45:05 [INFO ] [Base] - [closeBrowser] Scenario Completed: login into application
+2020-09-15 09:45:05 [INFO ] [Base] - [closeBrowser] Scenario Status is: passed
+2020-09-15 09:47:50 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-15 09:48:22 [INFO ] [Base] - [closeBrowser] Scenario Completed: login into application
+2020-09-15 09:48:22 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2020-09-15 10:35:17 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-15 10:36:02 [INFO ] [Base] - [closeBrowser] Scenario Completed: login into application
+2020-09-15 10:36:02 [INFO ] [Base] - [closeBrowser] Scenario Status is: passed
+2020-09-15 10:39:08 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-15 10:39:56 [INFO ] [Base] - [closeBrowser] Scenario Completed: login into application
+2020-09-15 10:39:56 [INFO ] [Base] - [closeBrowser] Scenario Status is: passed
+2020-09-15 10:42:18 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-15 10:42:43 [INFO ] [Base] - [closeBrowser] Scenario Completed: login into application
+2020-09-15 10:42:43 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2020-09-15 10:43:03 [INFO ] [Base] - [suiteSetUp] Scenario Started: login into application
+2020-09-15 10:43:44 [INFO ] [Base] - [closeBrowser] Scenario Completed: login into application
+2020-09-15 10:43:44 [INFO ] [Base] - [closeBrowser] Scenario Status is: passed
